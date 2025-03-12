@@ -29,7 +29,7 @@ Throughout the development of this project, I have sought inspiration from a piv
 
 ## Questions Answered
 
-The following are a few of the questions that are answered in the project (check out <a href="https://github.com/shubham-kadtan/SQL-Project-Music-Store-Analysis/blob/main/Music_Store_database.sql">analysis.sql</a> file for the rest):
+The following are a few of the questions that are answered in the project (check out <a href="https://github.com/shubham-kadtan/SQL-Project-Music-Store-Analysis/blob/main/Music_Store_database.sql">Music_Store_Analysis.sql</a> file for the rest):
 
 * What are the most popular genres of music?
 * What are the most popular artists?
