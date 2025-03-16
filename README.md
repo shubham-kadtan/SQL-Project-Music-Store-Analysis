@@ -31,11 +31,11 @@ Throughout the development of this project, I have sought inspiration from a piv
 
 The following are a few of the questions that are answered in the project (check out <a href="https://github.com/shubham-kadtan/SQL-Project-Music-Store-Analysis/blob/main/Music_Store_Analysis.sql">Music_Store_Analysis.sql</a> file for the rest):
 
-* What are the most popular genres of music?
-* What are the most popular artists?
+* Which genres of music are the most popular?
+* Who are the most popular artists?
 * What are the most popular songs?
-* What are the average prices of different types of music?
-* What are the most popular countries for music purchases?
+* What is the average price of different types of music?
+* Which countries have the highest music purchases?
 
 ## Results
 
